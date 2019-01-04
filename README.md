@@ -1,2 +1,2 @@
 # hello-world
-Repository
+Hi I'm the creator of ColgCoin.
